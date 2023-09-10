@@ -1,0 +1,7 @@
+{
+  "name": "LiMan1",
+  "database": {
+    "url": "sqlite:///db.db",
+    "echo": true
+  }
+}
